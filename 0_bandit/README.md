@@ -7,7 +7,7 @@ Bandit is a wargame aimed for absolute beginners to start in CTF challenges. The
 `Port: 2220`
 
 ## Table of Contents
-- Level 0
+- [Level 0](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_0.md)
 - Level 1 - 2
 - Level 2 - 3
 - Level 3 - 4
