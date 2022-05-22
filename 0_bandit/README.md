@@ -3,6 +3,7 @@ Bandit is a wargame aimed for absolute beginners to start in CTF challenges. In 
 
 ## SSH Information
 `Host: bandit.labs.overthewire.org`
+
 `Port: 2220`
 
 ## Table of Contents
