@@ -1,5 +1,5 @@
 # Bandit
-Bandit is a wargame aimed for absolute beginners to start in CTF challenges. In this directory, I will post my writeups for each level.
+Bandit is a wargame aimed for absolute beginners to start in CTF challenges. These challenges are centered around learning about using the UNIX command line interface. In this directory, I will post my writeups for each level.
 
 ## SSH Information
 `Host: bandit.labs.overthewire.org`
