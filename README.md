@@ -4,9 +4,11 @@
 ## Table of Contents
 Following the suggested order of difficulty:
 
-0. Bandit
-1. Leviathan or Natas or Krypton
-2. Narnia
-3. Behemoth
-4. Utumno
-5. Maze
+0. Bandit - Beginner CTF Essentials
+1. Natas - Serverside web-security
+2. Leviathan - \*nix commands
+4. Krypton - Ciphers and Encryption
+5. Narnia - Basic Exploitation
+6. Behemoth - Buffer Overflows, Race Conditions, Privilege Escalation, etc
+7. Utumno - Similar to Leviathan and Behemoth, but harder
+8. Maze - Exploitation, Reverse Engineering, Programming
