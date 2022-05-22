@@ -3,6 +3,7 @@
 
 ## Table of Contents
 Following the suggested order of difficulty:
+
 0. Bandit
 1. Leviathan or Natas or Krypton
 2. Narnia
