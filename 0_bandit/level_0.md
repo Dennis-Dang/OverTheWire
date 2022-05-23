@@ -30,7 +30,9 @@ Once the connection is authenticated, we can confirm that we have sucessfully lo
 
 Another way to visually see this is by looking at the bash shell's prompt:
 
-`bandit0@bandit:~$`
+```console
+bandit0@bandit:~$
+```
 
 Most shells in UNIX has their command line formated like this on default:
 
