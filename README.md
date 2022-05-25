@@ -4,7 +4,7 @@
 ## Table of Contents
 Following the suggested order of difficulty:
 
-0. Bandit - Beginner CTF Essentials
+0. [Bandit - Beginner CTF Essentials](https://github.com/Dennis-Dang/OverTheWire/tree/main/0_bandit)
 1. Natas - Serverside web-security
 2. Leviathan - \*nix commands
 4. Krypton - Ciphers and Encryption
