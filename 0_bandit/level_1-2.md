@@ -1,4 +1,4 @@
-# Bandit - Level 1 -> Level 2
+# Bandit: Level 1 -> Level 2
 << [Level 0 -> 1](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_0-1.md) | [Level 2 -> 3](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_2-3.md) >>
 ## Level Goal
 Find the password to Level 2, which is stored in a file called `-` located in the home directory.
