@@ -1,5 +1,5 @@
 # Bandit: Level 6 -> Level 7
-<< [Level 5 -> 6](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_5-6.md) | [Level 7 -> 8](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_7-8.md) >>
+<< [Level 5 -> 6](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_05-06.md) | [Level 7 -> 8](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_07-08.md) >>
 
 ## Level Goal
 Find the level 7 password stored in a file somewhere in the server given the following properties:
