@@ -1,5 +1,5 @@
 # Bandit: Level 9 - 10
-<< [Level 8 -> 9](https://raw.githubusercontent.com/Dennis-Dang/OverTheWire/main/0_bandit/level_8-9.md) | [Level 10 -> 11](https://raw.githubusercontent.com/Dennis-Dang/OverTheWire/main/0_bandit/level_10-11.md) >>
+<< [Level 8 -> 9](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_08-09.md) | [Level 10 -> 11](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_10-11.md) >>
 
 ## Level Goal
 The password is stored in the file data.txt in one of the few readable strings, preceded by serveral '=' characters.
