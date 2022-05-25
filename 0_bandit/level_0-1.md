@@ -18,11 +18,17 @@ bandit0@bandit:~$ ls
 readme
 bandit0@bandit:~$ cat readme
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
-bandit0@bandit:~$ exit
+```
 
+### Verifying the Password
+Now that the password is obtained, we can confirm that these are the right credentials by logging in.
+The `whoami` command tells you the current user that you are logged in as.
+``` console
 ssh bandit1@bandit.labs.overthewire.org -p 2220
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
 bandit1@bandit:~$ whoami
 bandit1
 ```
+
+In my future writeups for this series, I won't include the process of logging into the next level just to verify the password. This decision was made in order to keep writeups concise.
