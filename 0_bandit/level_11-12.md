@@ -23,9 +23,9 @@ The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
 
 The syntax specifying both of the sets looks obfuscating at first, but let's break it down:
 - Set 1 consists of the character ranges A-Z and then a-z.
- - The `tr` command concatonates these ranges together to form ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+  - The `tr` command concatonates these ranges together to form ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
 - Set 2 consists of concatenation of the character ranges N-Z, A-M, n-z, a-m
-- Finally, putting it back to back we can see the following mapping:
+- Finally if we see the two sets side-by-side, we can see the following mapping:
 ```console
 ABCDEFGHIJKLM NOPQRSTUVWXYZ abcdefghijklm nopqrstuvwxyz
 NOPQRSTUVWXYZ ABCDEFGHIJKLM nopqrstuvwxyz abcdefghijklm
