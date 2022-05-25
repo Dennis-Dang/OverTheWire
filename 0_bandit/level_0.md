@@ -1,4 +1,5 @@
 # Bandit - Level 0
+[Level 0 -> 1](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_0-1.md)
 ## Level Goal
 The goal of this level is to log into the game though using SSH. 
 
