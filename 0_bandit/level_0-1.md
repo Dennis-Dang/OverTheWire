@@ -22,7 +22,6 @@ boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
 ### Verifying the Password
 Now that the password is obtained, we can confirm that these are the right credentials by logging in.
-The `whoami` command tells you the current user that you are logged in as.
 ``` console
 ssh bandit1@bandit.labs.overthewire.org -p 2220
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
