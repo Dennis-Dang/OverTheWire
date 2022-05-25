@@ -17,5 +17,7 @@ Syntax:
 
 In this context, the period or dot `.` indicates the current path of the parent directory we are in now. So, `./-` means that I am specifying for the file named `-` under the current parent directory. 
 
-cat ./-
+```console
+bandit1@bandit:~$ cat ./-
 CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+```
