@@ -1,5 +1,5 @@
 # Bandit: Level 5 -> Level 6
-<< [Level 4 -> 5](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_4-5.md) | [Level 6 -> 7](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_6-7.md) >>
+<< [Level 4 -> 5](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_04-05.md) | [Level 6 -> 7](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_06-07.md) >>
 
 ## Level Goal
 Find the password in a file in the inhere directory which has the following properties:
