@@ -1,6 +1,8 @@
 # Bandit: Level 7 -> Level 8
 
-<< [Level 6 -> 7](https://raw.githubusercontent.com/Dennis-Dang/OverTheWire/main/0_bandit/level_6-7.md) | [Level 8 -> 9](https://raw.githubusercontent.com/Dennis-Dang/OverTheWire/main/0_bandit/level_8-9.md) >>
+<< [Level 6 -> 7](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_6-7.md) | [Level 8 -> 9](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_8-9.md) >>
+
+
 
 ## Level Goal
 Find the password in the file data.txt next to the word millionth.
