@@ -1,7 +1,7 @@
 # Bandit - Level 1 -> Level 2
 << [Level 0 -> 1](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_0-1.md) | [Level 2 -> 3](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_2-3.md) >>
 ## Level Goal
-Find the password to Level 2, which is stored in a file called `-` located in the home directory. Then, use it it authenticate as the user `bandit2` to continue the game.
+Find the password to Level 2, which is stored in a file called `-` located in the home directory.
 
 ## Solution
 Similar, to the previous solution, you may open this file with the `cat` command. 
