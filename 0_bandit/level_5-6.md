@@ -36,4 +36,5 @@ You can check this result and run an additional `file` command to see if this is
 
 However, I was not satisfied with a two-liner solution. So, I created one-liner solution through the use of pipe redirection with the `xargs` command. 
 - I used `xargs` to funnel all output from the query against the command `file` so that I can view which files from my query is human-readable
+	- You could do another pipe redirection into a `grep` command to match for all ASCII types, but note that not all human-readable files are of type ASCII.
 - This one-liner command satisfies all three properties of the file we are looking for.
