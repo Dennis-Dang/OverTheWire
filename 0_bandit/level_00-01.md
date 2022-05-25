@@ -1,5 +1,5 @@
 # Bandit: Level 0 -> 1
-<< [Level 0](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_0.md) | [Level 1 -> 2](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_1-2.md) >>
+<< [Level 0](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_0.md) | [Level 1 -> 2](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_01-02.md) >>
 
 ## Level Goal
 Find the password to Level 1, which is stored in a file called `readme` located in the home directory. Then, use it it authenticate as the user `bandit1` to continue the game.
