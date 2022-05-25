@@ -12,9 +12,10 @@ I've figured out the mapping:
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 N O P Q R S T U V W X Y Z A B C D E F G H I J K L M
 ```
+
 From this, we know that the characters A-M transpose to N-Z and vice versa. 
 Use the `tr` command to rotate the character positions.
-- 
+ 
 ```console
 bandit11@bandit:~$ cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
