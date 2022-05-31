@@ -1,5 +1,5 @@
 # Bandit: Level 15 -> 16
-<< [Level 14 -> 15](https://raw.githubusercontent.com/Dennis-Dang/OverTheWire/main/0_bandit/level_14-15.md) | [Level 16 -> 17](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_16-17.md) >>
+<< [Level 14 -> 15](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_14-15.md) | [Level 16 -> 17](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_16-17.md) >>
 
 ## Level Goal
 The password for the next level can be retrieved by submitting the password of the current level to **port 30001 on localhost** using SSL encryption.
