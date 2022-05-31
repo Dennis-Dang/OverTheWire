@@ -1,6 +1,6 @@
-# Bandit: Level 17 -> 18
+# Bandit: Level 18 -> 19
 
-<< [Level 16 -> 17](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_15-16.md) | [Level 18 -> 19](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_18-19.md) >>
+<< [Level 17 -> 18](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_17-18.md) | [Level 19 -> 20](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_19-20.md) >>
 
 ## Level Goal
 The password for the next level is stored in a file **readme** in the homedirectory. Unfortunately, someone has modified **.bashrc** to log you out when you log in with SSH.
