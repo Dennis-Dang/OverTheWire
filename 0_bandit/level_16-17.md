@@ -1,4 +1,4 @@
-# Bandit: Level 16 -> 17
+# Bandit: Level 16 -> Level 17
 << [Level 15 -> 16](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_15-16.md) | [Level 17 -> 18](https://github.com/Dennis-Dang/OverTheWire/blob/main/0_bandit/level_17-18.md) >>
 
 ## Level Goal
